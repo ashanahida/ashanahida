@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/ashanahida">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nahida+Asha;SQA+Engineer+%7C+Selenium;+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nahida+Asha;SQA+Engineer+%7C+Selenium;Python+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
    
